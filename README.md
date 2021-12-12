@@ -6,7 +6,7 @@ This project is about developing a personal clock with the capabilities of displ
 In additition, I will try to recreate the alarm mechanism of a wind up clock using gears, springs, and a motor.
 
 ### Inspirations:
-[article][https://tellini.info/2018/08/create-a-smart-clock-with-a-raspberry-pi/]
+[article] [https://tellini.info/2018/08/create-a-smart-clock-with-a-raspberry-pi/]
 
 ### Possible Additions
 - Sync with google calendar to display meetings 
